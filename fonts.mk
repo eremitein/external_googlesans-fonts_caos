@@ -13,23 +13,9 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES := \
-    GoogleSans-BlackItalic.ttf \
-    GoogleSans-Black.ttf \
     GoogleSans-BoldItalic.ttf \
     GoogleSans-Bold.ttf \
-    GoogleSansCondensed-BoldItalic.ttf \
-    GoogleSansCondensed-Bold.ttf \
-    GoogleSansCondensed-Italic.ttf \
-    GoogleSansCondensed-LightItalic.ttf \
-    GoogleSansCondensed-Light.ttf \
-    GoogleSansCondensed-MediumItalic.ttf \
-    GoogleSansCondensed-Medium.ttf \
-    GoogleSansCondensed-Regular.ttf \
     GoogleSans-Italic.ttf \
-    GoogleSans-LightItalic.ttf \
-    GoogleSans-Light.ttf \
     GoogleSans-MediumItalic.ttf \
     GoogleSans-Medium.ttf \
-    GoogleSans-Regular.ttf \
-    GoogleSans-ThinItalic.ttf \
-    GoogleSans-Thin.ttf
+    GoogleSans-Regular.ttf
