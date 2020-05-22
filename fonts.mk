@@ -16,4 +16,6 @@ PRODUCT_PACKAGES := \
     GoogleSans-BoldItalic.ttf \
     GoogleSans-Bold.ttf \
     GoogleSans-Italic.ttf \
+    GoogleSans-MediumItalic.ttf \
+    GoogleSans-Medium.ttf \
     GoogleSans-Regular.ttf
